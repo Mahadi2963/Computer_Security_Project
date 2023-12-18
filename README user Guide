@@ -1,0 +1,33 @@
+Installation:
+Local Development Environment Setup:
+Download and install XAMPP (or similar local server software).
+Install Apache and MySQL services using XAMPP control panel.
+Project Setup:
+Clone the GitHub repository into the htdocs folder in the XAMPP installation directory (C:\xampp\htdocs\).
+Rename the repository folder to uiu-studentsphere.
+Database Setup:
+Open phpMyAdmin through the XAMPP control panel.
+Create a new database named uiu_studentsphere.
+Import the provided SQL database file from the project's database folder.
+Configuration:
+Modify the config.php file in the includes folder to set up database connection parameters.
+Running the Project:
+Launch XAMPP and start Apache and MySQL services.
+Open a web browser and navigate to http://localhost/uiu-studentsphere.
+User Guide:
+Registration and Login:
+Register as a new user using the registration form.
+Login using registered credentials.
+Dashboard:
+View and navigate through various features like events, galleries, forum posts, etc.
+Creating Posts:
+Click on respective sections to create event posts, forum posts, job postings, etc.
+Fill in necessary details and submit.
+Approval Process:
+Admin will review and approve submitted posts.
+Resource and Course Lectures:
+Access resources and course lectures uploaded by administrators.
+Edit and Delete:
+Users can edit or delete their own posts.
+Profile Management:
+Edit user profile information and settings.
